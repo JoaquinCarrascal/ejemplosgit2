@@ -6,7 +6,6 @@ public class Ppal {
 	{
 
 		System.out.println("Hello world!");
-		System.out.println("------------");
 		
 	}
 
